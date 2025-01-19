@@ -53,28 +53,44 @@ lib/
 4. Görevlerinizi liste halinde görün ve düzenleyin ya da tamamlandı olarak işaretleyin.
 
 ## Ekran Görüntüleri
-- **Giriş Ekranı**:
-  Kullanıcılar e-posta ve şire kullanarak giriş yapabilir.
-![giris](https://github.com/user-attachments/assets/c3c545c8-5978-40c4-b810-c6a7e97c4e4b)
-  Ana ekran bu şekilde kullanımı basit şekilde kullanıcıya sunuluyor.
-![anaekran](https://github.com/user-attachments/assets/5b34d16b-9b0f-4acc-b166-ceb7dab83a56)
-Yapılacak görevimizi köşedeki ekleme tuşuna basarak yapabiliriz.
-![gorevekleme](https://github.com/user-attachments/assets/60d820e1-5e92-42a5-94aa-f1a201081c09)
-Görevlerimizi düzenleyebilir veya silebiliriz.
-![düzenleme](https://github.com/user-attachments/assets/34d4ef4c-7f08-4247-98a0-dd0a69030727)
-Tamamlanan
-![tamamlaman](https://github.com/user-attachments/assets/f01a0869-02a0-4185-b883-1e18614a7d10)
-![silme](https://github.com/user-attachments/assets/90373ba6-98c7-404a-8c89-15c4da957760)
 
+### Giriş Ekranı
+Kullanıcılar e-posta ve şifre kullanarak giriş yapabilir.
+<p align="center">
+  <img src="screenshots/login_screen.png" alt="Giriş Ekranı" width="500"/>
+</p>
 
+### Ana Sayfa
+Kullanıcılar görevlerini görüntüleyebilir ve yeni görevler ekleyebilir.
+<p align="center">
+  <img src="screenshots/home_screen.png" alt="Ana Sayfa" width="500"/>
+</p>
 
-- **Ana Sayfa**:
-  Kullanıcılar görevlerini görüntüleyebilir ve yeni görevler ekleyebilir.
-  ![Ana Sayfa](screenshots/home_screen.png)
+### Görev Ekleme
+Görev eklemek için sağ alt köşedeki "+" ikonuna tıklayın.
+<p align="center">
+  <img src="screenshots/add_task.png" alt="Görev Ekleme" width="500"/>
+</p>
+
+### Görev Düzenleme
+Eklenen görevleri düzenleyebilir veya silebilirsiniz.
+<p align="center">
+  <img src="screenshots/edit_task.png" alt="Görev Düzenleme" width="500"/>
+</p>
+
+### Tamamlanan Görevler
+Tamamlanan görevleri işaretleyerek listede ayırt edebilirsiniz.
+<p align="center">
+  <img src="screenshots/completed_task.png" alt="Tamamlanan Görevler" width="500"/>
+</p>
 
 ## Video Dökümantasyonu
 Projenin detaylı anlatımı ve kullanımını gösteren YouTube videosu:
-[![Video Bağlantısı](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Video Bağlantısı" width="600"/>
+  </a>
+</p>
 
 ## Katkı
 Bu projeye katkı sağlamak isterseniz, bir pull request oluşturabilir ya da herhangi bir sorun için issue açabilirsiniz.
@@ -85,6 +101,4 @@ Bu proje MIT Lisansı altında sunulmaktadır. Detaylar için LICENSE dosyasına
 ---
 
 Herhangi bir sorunuz için [e-posta/kullanıcı adınız].
-
-
 
