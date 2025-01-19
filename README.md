@@ -56,36 +56,32 @@ lib/
 
 ### Giriş Ekranı
 Kullanıcılar e-posta ve şifre kullanarak giriş yapabilir.
-<p align="center">
-![giris](https://github.com/user-attachments/assets/34c5a814-7ae8-4fb5-bba8-adb8c5bfe3a3)
-
-</p>
+![giris](https://github.com/user-attachments/assets/e3646f9d-1957-44e7-bf5a-ca5ed019aced)
 
 ### Ana Sayfa
 Kullanıcılar görevlerini görüntüleyebilir ve yeni görevler ekleyebilir.
-![giris](https://github.com/user-attachments/assets/a54bd526-6dcd-4a73-8c14-868c11893299)
 
+![anaekran](https://github.com/user-attachments/assets/d03239a6-13a1-4335-9726-73e9431beac9)
 
 ### Görev Ekleme
 Görev eklemek için sağ alt köşedeki "+" ikonuna tıklayın.
-<p align="center">
- ![gorevekleme](https://github.com/user-attachments/assets/c0eef2d2-85a8-4210-a349-5c680f584b7e)
+![gorevekleme](https://github.com/user-attachments/assets/78448488-172a-49e8-a0dc-e0db8e4cc98a)
 
-</p>
+### Görevi Tamamlama
+![yesil](https://github.com/user-attachments/assets/89e81a1a-e1a8-4a57-92b8-85c3ccf00c6b)
 
 ### Görev Düzenleme
 Eklenen görevleri düzenleyebilir veya silebilirsiniz.
-<p align="center">
  ![düzenleme](https://github.com/user-attachments/assets/f65c33b5-528e-40a9-9d0d-5a6e4e143bea)
-
-</p>
 
 ### Tamamlanan Görevler
 Tamamlanan görevleri işaretleyerek listede ayırt edebilirsiniz.
-<p align="center">
+
 ![tamamlaman](https://github.com/user-attachments/assets/fbe34b70-38b8-42bb-848e-a8dc9e1816ac)
 
-</p>
+### Görevleri Silme
+![silme](https://github.com/user-attachments/assets/766dfcd8-ce45-4362-9f38-7a156470372b)
+
 
 ## Video Dökümantasyonu
 Projenin detaylı anlatımı ve kullanımını gösteren YouTube videosu:
@@ -96,7 +92,7 @@ Projenin detaylı anlatımı ve kullanımını gösteren YouTube videosu:
 </p>
 
 ## Katkı
-Bu projeye katkı sağlayanlar 
+Projeye katkı sağlayanlar 
 Metin Mutlu
 Savaş Şahin 
 Deniz İlhan 
