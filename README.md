@@ -1,16 +1,18 @@
 # Yapılacaklar Uygulaması
 
 ## Genel Bakış
-Bu uygulama, Flutter ile geliştirilmiş basit bir yapılacaklar (ToDo) listesidir. Firebase entegrasyonu sayesinde kullanıcıların giriş yapması ve görevlerini kaydetmesi sağlanır.
+Bu uygulama, Flutter ile geliştirilmiş basit bir yapılacaklar (ToDo) listesidir. Firebase Authentication ve Realtime Database entegrasyonu sayesinde kullanıcıların giriş yapması ve görevlerini kaydetmesi sağlanır.
 
 ## Özellikler
 - Kullanıcı Girişi:
   - Kayıt Olma
   - Giriş Yapma
+  - Oturum Durumu Kontrolü
 - Görev Yönetimi:
   - Görev ekleme, düzenleme ve silme
   - Firebase Realtime Database ile görevlerin anında senkronizasyonu
-- Kullanıcı dostu arayüz
+- Material Design tabanlı kullanıcı arayüzü
+- Indigo renk teması
 
 ## Kurulum
 1. Bu depoyu klonlayın:
@@ -30,7 +32,6 @@ Bu uygulama, Flutter ile geliştirilmiş basit bir yapılacaklar (ToDo) listesid
    - Android veya iOS uygulamanızı Firebase projenize ekleyin ve `google-services.json` (Android için) veya `GoogleService-Info.plist` (iOS için) dosyasını indirin.
    - Bu dosyayı aşağıdaki dizinlere yerleştirin:
      - Android: `android/app/`
-     - iOS: `ios/Runner/`
    - Firebase Console'da Authentication ve Realtime Database özelliklerini etkinleştirin.
 5. Uygulamayı çalıştırın:
    ```bash
@@ -40,12 +41,21 @@ Bu uygulama, Flutter ile geliştirilmiş basit bir yapılacaklar (ToDo) listesid
 ## Proje Yapısı
 ```
 lib/
-|-- main.dart                # Uygulamanın ana dosyası
-|-- home_screen.dart         # Görev yönetimi ekranı
-|-- login_screen.dart        # Kullanıcı giriş ekranı
-|-- signup_screen.dart       # Kullanıcı kayıt ekranı
+|-- main.dart              # Uygulamanın ana dosyası
+|-- Ana_ekran.dart         # Ana uygulama ekranı
+|-- giris_ekran.dart       # Kullanıcı giriş ekranı
+|-- kayit_ekran.dart       # Kullanıcı kayıt ekranı
 ```
 
+## Bağımlılıklar
+```yaml
+dependencies:
+  firebase_core: ^latest_version
+  firebase_auth: ^latest_version
+  firebase_database: ^latest_version
+  flutter:
+    sdk: flutter
+```
 ## Kullanım
 1. Uygulamayı başlatın.
 2. Giriş yapın ya da yeni bir hesap oluşturun.
@@ -84,18 +94,13 @@ Tamamlanan görevleri işaretleyerek listede ayırt edebilirsiniz.
 
 
 ## Video Dökümantasyonu
-Projenin detaylı anlatımı ve kullanımını gösteren YouTube videosu:
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="Video Bağlantısı" width="600"/>
-  </a>
-</p>
+## Önemli Notlar
+- Uygulama Firebase Authentication kullanarak oturum durumunu kontrol eder
+- Tema rengi olarak indigo kullanılmıştır
+- Debug banner kapalıdır
 
 ## Katkı
-Projeye katkı sağlayanlar 
-Metin Mutlu
-Savaş Şahin 
-Deniz İlhan 
-
-
-
+Projeye katkı sağlayanlar:
+- Metin Mutlu
+- Savaş Şahin 
+- Deniz İlhan
