@@ -17,7 +17,7 @@ Bu uygulama, Flutter ile geliştirilmiş basit bir yapılacaklar (ToDo) listesid
 ## Kurulum
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/yourusername/todo_app.git
+   git clone https://github.com/denisilhan/todo_app.git
    ```
 2. Proje dizinine gidin:
    ```bash
