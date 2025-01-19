@@ -29,7 +29,7 @@ Bu uygulama, Flutter ile geliştirilmiş basit bir yapılacaklar (ToDo) listesid
    ```
 4. Firebase Kurulumu:
    - [Firebase Console](https://console.firebase.google.com/) üzerinden yeni bir proje oluşturun.
-   - Android veya iOS uygulamanızı Firebase projenize ekleyin ve `google-services.json` (Android için) veya `GoogleService-Info.plist` (iOS için) dosyasını indirin.
+   - Android uygulamanızı Firebase projenize ekleyin ve `google-services.json` dosyasını indirin.
    - Bu dosyayı aşağıdaki dizinlere yerleştirin:
      - Android: `android/app/`
    - Firebase Console'da Authentication ve Realtime Database özelliklerini etkinleştirin.
@@ -78,6 +78,7 @@ Görev eklemek için sağ alt köşedeki "+" ikonuna tıklayın.
 ![gorevekleme](https://github.com/user-attachments/assets/78448488-172a-49e8-a0dc-e0db8e4cc98a)
 
 ### Görevi Tamamlama
+Tamamlanan görevi işaretleme
 ![yesil](https://github.com/user-attachments/assets/89e81a1a-e1a8-4a57-92b8-85c3ccf00c6b)
 
 ### Görev Düzenleme
@@ -90,6 +91,7 @@ Tamamlanan görevleri işaretleyerek listede ayırt edebilirsiniz.
 ![tamamlaman](https://github.com/user-attachments/assets/fbe34b70-38b8-42bb-848e-a8dc9e1816ac)
 
 ### Görevleri Silme
+Yapılan görevlerin silinmesi
 ![silme](https://github.com/user-attachments/assets/766dfcd8-ce45-4362-9f38-7a156470372b)
 
 
@@ -103,4 +105,4 @@ Tamamlanan görevleri işaretleyerek listede ayırt edebilirsiniz.
 Projeye katkı sağlayanlar:
 - Metin Mutlu
 - Savaş Şahin 
-- Deniz İlhan
+- Deniz İlhan 
