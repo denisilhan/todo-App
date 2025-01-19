@@ -12,7 +12,6 @@ Bu uygulama, Flutter ile geliştirilmiş basit bir yapılacaklar (ToDo) listesid
   - Görev ekleme, düzenleme ve silme
   - Firebase Realtime Database ile görevlerin anında senkronizasyonu
 - Material Design tabanlı kullanıcı arayüzü
-- Indigo renk teması
 
 ## Kurulum
 1. Bu depoyu klonlayın:
@@ -96,6 +95,7 @@ Yapılan görevlerin silinmesi
 
 
 ## Video Dökümantasyonu
+
 ## Önemli Notlar
 - Uygulama Firebase Authentication kullanarak oturum durumunu kontrol eder
 - Tema rengi olarak indigo kullanılmıştır
