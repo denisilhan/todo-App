@@ -63,10 +63,8 @@ Kullanıcılar e-posta ve şifre kullanarak giriş yapabilir.
 
 ### Ana Sayfa
 Kullanıcılar görevlerini görüntüleyebilir ve yeni görevler ekleyebilir.
-<p align="center">
- ![anaekran](https://github.com/user-attachments/assets/106efa0e-9e66-4820-8887-7b73eabb797f)
+![giris](https://github.com/user-attachments/assets/a54bd526-6dcd-4a73-8c14-868c11893299)
 
-</p>
 
 ### Görev Ekleme
 Görev eklemek için sağ alt köşedeki "+" ikonuna tıklayın.
