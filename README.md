@@ -63,7 +63,8 @@ Kullanıcılar e-posta ve şifre kullanarak giriş yapabilir.
 ### Ana Sayfa
 Kullanıcılar görevlerini görüntüleyebilir ve yeni görevler ekleyebilir.
 <p align="center">
-  <img src="screenshots/home_screen.png" alt="Ana Sayfa" width="500"/>
+  <img src="![giris](https://github.com/user-attachments/assets/a8397719-ef34-434e-9d7e-34725da52dba)
+" alt="Ana Sayfa" width="500"/>
 </p>
 
 ### Görev Ekleme
@@ -93,12 +94,10 @@ Projenin detaylı anlatımı ve kullanımını gösteren YouTube videosu:
 </p>
 
 ## Katkı
-Bu projeye katkı sağlamak isterseniz, bir pull request oluşturabilir ya da herhangi bir sorun için issue açabilirsiniz.
+Bu projeye katkı sağlayanlar 
+Metin Mutlu
+Savaş Şahin 
+Deniz İlhan 
 
-## Lisans
-Bu proje MIT Lisansı altında sunulmaktadır. Detaylar için LICENSE dosyasına bakınız.
 
----
-
-Herhangi bir sorunuz için [e-posta/kullanıcı adınız].
 
