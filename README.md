@@ -55,12 +55,17 @@ lib/
 ## Ekran Görüntüleri
 - **Giriş Ekranı**:
   Kullanıcılar e-posta ve şire kullanarak giriş yapabilir.
-  ![Giriş Ekranı](screenshots/login_screen.png)![WhatsApp Görsel 2025-01-19 saat 17 14 10_a627c0ef](https://github.com/user-attachments/assets/e35a5172-51c9-4878-9f30-63aa7a2dc18c)
-![WhatsApp Görsel 2025-01-19 saat 17 14 00_5d261b30](https://github.com/user-attachments/assets/e0d1ff93-d16a-4ae9-9b06-7e30ba93fb47)
-![WhatsApp Görsel 2025-01-19 saat 17 14 10_25da0e3b](https://github.com/user-attachments/assets/dc4523f8-899c-437a-8ae3-afa2a73d7bf1)
-![WhatsApp Görsel 2025-01-19 saat 17 14 00_f13a6a8a](https://github.com/user-attachments/assets/8cef411d-93e0-46e2-bc42-c14025c1048a)
-![WhatsApp Görsel 2025-01-19 saat 18 28 00_a32498f5](https://github.com/user-attachments/assets/20a81f1c-0c44-4352-8188-f111e27dac2c)
-![WhatsApp Görsel 2025-01-19 saat 17 14 00_7e5b09c5](https://github.com/user-attachments/assets/80887f39-0229-48c6-8dd2-7399eb775ac4)
+![giris](https://github.com/user-attachments/assets/c3c545c8-5978-40c4-b810-c6a7e97c4e4b)
+  Ana ekran bu şekilde kullanımı basit şekilde kullanıcıya sunuluyor.
+![anaekran](https://github.com/user-attachments/assets/5b34d16b-9b0f-4acc-b166-ceb7dab83a56)
+Yapılacak görevimizi köşedeki ekleme tuşuna basarak yapabiliriz.
+![gorevekleme](https://github.com/user-attachments/assets/60d820e1-5e92-42a5-94aa-f1a201081c09)
+Görevlerimizi düzenleyebilir veya silebiliriz.
+![düzenleme](https://github.com/user-attachments/assets/34d4ef4c-7f08-4247-98a0-dd0a69030727)
+Tamamlanan
+![tamamlaman](https://github.com/user-attachments/assets/f01a0869-02a0-4185-b883-1e18614a7d10)
+![silme](https://github.com/user-attachments/assets/90373ba6-98c7-404a-8c89-15c4da957760)
+
 
 
 - **Ana Sayfa**:
