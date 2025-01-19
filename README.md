@@ -57,32 +57,36 @@ lib/
 ### Giriş Ekranı
 Kullanıcılar e-posta ve şifre kullanarak giriş yapabilir.
 <p align="center">
-  <img src="screenshots/login_screen.png" alt="Giriş Ekranı" width="500"/>
+![giris](https://github.com/user-attachments/assets/34c5a814-7ae8-4fb5-bba8-adb8c5bfe3a3)
+
 </p>
 
 ### Ana Sayfa
 Kullanıcılar görevlerini görüntüleyebilir ve yeni görevler ekleyebilir.
 <p align="center">
-  <img src="![giris](https://github.com/user-attachments/assets/a8397719-ef34-434e-9d7e-34725da52dba)
-" alt="Ana Sayfa" width="500"/>
+ ![anaekran](https://github.com/user-attachments/assets/106efa0e-9e66-4820-8887-7b73eabb797f)
+
 </p>
 
 ### Görev Ekleme
 Görev eklemek için sağ alt köşedeki "+" ikonuna tıklayın.
 <p align="center">
-  <img src="screenshots/add_task.png" alt="Görev Ekleme" width="500"/>
+ ![gorevekleme](https://github.com/user-attachments/assets/c0eef2d2-85a8-4210-a349-5c680f584b7e)
+
 </p>
 
 ### Görev Düzenleme
 Eklenen görevleri düzenleyebilir veya silebilirsiniz.
 <p align="center">
-  <img src="screenshots/edit_task.png" alt="Görev Düzenleme" width="500"/>
+ ![düzenleme](https://github.com/user-attachments/assets/f65c33b5-528e-40a9-9d0d-5a6e4e143bea)
+
 </p>
 
 ### Tamamlanan Görevler
 Tamamlanan görevleri işaretleyerek listede ayırt edebilirsiniz.
 <p align="center">
-  <img src="screenshots/completed_task.png" alt="Tamamlanan Görevler" width="500"/>
+![tamamlaman](https://github.com/user-attachments/assets/fbe34b70-38b8-42bb-848e-a8dc9e1816ac)
+
 </p>
 
 ## Video Dökümantasyonu
