@@ -1,3 +1,10 @@
+## Katkı
+Projeye katkı sağlayanlar:
+- Metin Mutlu 132230127
+- Savaş Şahin 132230042
+- Deniz İlhan 132230027
+
+
 # Yapılacaklar Uygulaması
 
 ## Genel Bakış
@@ -101,8 +108,3 @@ Yapılan görevlerin silinmesi
 - Tema rengi olarak indigo kullanılmıştır
 - Debug banner kapalıdır
 
-## Katkı
-Projeye katkı sağlayanlar:
-- Metin Mutlu
-- Savaş Şahin 
-- Deniz İlhan 
