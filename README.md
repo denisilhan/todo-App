@@ -3,6 +3,8 @@ Projeye katkı sağlayanlar:
 - Metin Mutlu 132230127
 - Savaş Şahin 132230042
 - Deniz İlhan 132230027
+## Video Dökümantasyonu
+https://www.youtube.com/watch?v=6BkaXKrGpyA
 
 
 # Yapılacaklar Uygulaması
@@ -101,7 +103,6 @@ Yapılan görevlerin silinmesi
 ![silme](https://github.com/user-attachments/assets/766dfcd8-ce45-4362-9f38-7a156470372b)
 
 
-## Video Dökümantasyonu
 
 ## Önemli Notlar
 - Uygulama Firebase Authentication kullanarak oturum durumunu kontrol eder
